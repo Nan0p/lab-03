@@ -5,7 +5,7 @@
 - **Full Name:** `Mingxin Li`
 - **CCID:** `Mingxin3`
 
-Click on any of the cities on the list to edit them. Adding still the same with the button
+Click on any of the cities on the list to edit them. Adding still the same with the button.
 
 ## References and Resources
 
